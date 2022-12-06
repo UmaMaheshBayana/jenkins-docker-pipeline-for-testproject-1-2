@@ -2,6 +2,7 @@
 
 1) Login to Jenkins and add docker username and password in Jenkins Credentials.
 2) Create a declarative pipeline as per the script below.
+3) Here mention Jenkis docker credentials in environment varialble in the below script. 
 
 ```
 pipeline {
